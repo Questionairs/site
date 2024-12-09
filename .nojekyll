@@ -1,4 +1,0 @@
-echo > .nojekyll
-git add .nojekyll
-git commit -m "Add .nojekyll file to bypass Jekyll"
-git push
