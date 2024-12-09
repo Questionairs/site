@@ -1,3 +1,0 @@
-git add .nojekyll
-git commit -m "Disable Jekyll"
-git push
