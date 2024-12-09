@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Revision Notes and Lesson PowerPoints</title>
-   </head>
 <body>
     <header>
         <h1>Revision Notes and Lesson PowerPoints</h1>
